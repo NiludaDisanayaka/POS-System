@@ -1,0 +1,42 @@
+C:\Users\nilud\Desktop\POS system\POS system\POS system\bin\Debug\POS system.mdf
+C:\Users\nilud\Desktop\POS system\POS system\POS system\bin\Debug\POS system_log.ldf
+C:\Users\nilud\Desktop\POS system\POS system\POS system\bin\Debug\POS system.exe.config
+C:\Users\nilud\Desktop\POS system\POS system\POS system\bin\Debug\POS system.exe
+C:\Users\nilud\Desktop\POS system\POS system\POS system\bin\Debug\POS system.pdb
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS system.csproj.AssemblyReference.cache
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.Customer_Management_Form.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.Exit_Confirmation_Form.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.Form1.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.Form2.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.Form3.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.New_Sale_Form.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.ProductManagementForm.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.Properties.Resources.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.Sale_Details_Form.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.Sales_History_Form.resources
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS system.csproj.GenerateResource.cache
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS system.csproj.CoreCompileInputs.cache
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS system.exe
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS system.pdb
+C:\Users\nilud\Desktop\POS system\POS system\POS system\obj\Debug\POS_system.RegisterForm.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\bin\Debug\POS system.mdf
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\bin\Debug\POS system_log.ldf
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\bin\Debug\POS system.exe.config
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\bin\Debug\POS system.exe
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\bin\Debug\POS system.pdb
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS system.csproj.AssemblyReference.cache
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.Customer_Management_Form.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.Exit_Confirmation_Form.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.Form1.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.Form2.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.Form3.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.New_Sale_Form.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.ProductManagementForm.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.Properties.Resources.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.RegisterForm.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.Sale_Details_Form.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS_system.Sales_History_Form.resources
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS system.csproj.GenerateResource.cache
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS system.csproj.CoreCompileInputs.cache
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS system.exe
+C:\Users\nilud\Desktop\22APP5887-D.A.N.R Disanayaka\POS system\POS system\POS system\obj\Debug\POS system.pdb
