@@ -70,25 +70,6 @@ A desktop Point of Sale (POS) application built with **C# Windows Forms** and a 
 
 ---
 
-## 🎨 Design Language
-
-All forms share the same visual system:
-- Dark navy (`#1C2833`) header/branding panels
-- White rounded "card" panels with a soft drop-shadow
-- Icon-labeled fields (emoji-based, no external image assets required)
-- Consistent action-button colors: green = primary/add, blue = update, red = delete/danger, gray = neutral/cancel, purple = search
-
----
-
-## 🐛 Known Issues Fixed Along the Way
-
-- Several forms queried singular table names (`Product`, `Category`, `Customer`) instead of the actual plural table names (`Products`, `Categories`, `Customers`)
-- A few buttons (Exit, Back, Cancel) had no click handler wired up at all
-- Password fields were missing `PasswordChar`, showing plain text
-- A stock-quantity value was being written into the wrong textbox in the New Sale form
-- A search query concatenated a TextBox *object* instead of its `.Text` property
-
----
 
 ## 📌 Notes
 
