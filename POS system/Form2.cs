@@ -1,9 +1,8 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,33 +15,6 @@ namespace POS_system
         public Form2()
         {
             InitializeComponent();
-            ApplyModernStyling();
-        }
-
-        // ---------- Visual styling (no image files needed) ----------
-        private void ApplyModernStyling()
-        {
-            ApplyRoundedCorners(button1, 16);
-            ApplyRoundedCorners(button2, 16);
-            ApplyRoundedCorners(button3, 16);
-            ApplyRoundedCorners(button4, 16);
-            ApplyRoundedCorners(button5, 16);
-            ApplyRoundedCorners(button6, 22); // fully round "power" button
-        }
-
-        private void ApplyRoundedCorners(Control control, int radius)
-        {
-            var path = new GraphicsPath();
-            int d = radius * 2;
-            Rectangle bounds = new Rectangle(0, 0, control.Width, control.Height);
-
-            path.AddArc(bounds.X, bounds.Y, d, d, 180, 90);
-            path.AddArc(bounds.Right - d, bounds.Y, d, d, 270, 90);
-            path.AddArc(bounds.Right - d, bounds.Bottom - d, d, d, 0, 90);
-            path.AddArc(bounds.X, bounds.Bottom - d, d, d, 90, 90);
-            path.CloseFigure();
-
-            control.Region = new Region(path);
         }
 
         private void button6_Click(object sender, EventArgs e)
