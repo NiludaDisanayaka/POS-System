@@ -73,7 +73,7 @@ namespace POS_system
                             Sales.GrandTotal
                             FROM Sales
                             INNER JOIN Customers
-                            ON Sale.CustomerID = Customers.CustomerID
+                            ON Sales.CustomerID = Customers.CustomerID
                             WHERE Sales.SaleID LIKE @search";
 
             SqlDataAdapter da = new SqlDataAdapter(query, con);
